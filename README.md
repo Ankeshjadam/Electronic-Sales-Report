@@ -31,3 +31,5 @@ Analyzed electronic store sales to understand sales performance, profit, and top
 ## 👨‍💻 Author
 **Ankesh Jadam**
 GitHub: @Ankeshjadam
+
+<img width="602" height="338" alt="Screenshot 2026-10-06 042105" src="https://github.com/user-attachments/assets/263f56e7-f59f-43eb-a5a6-44f119472393" />
